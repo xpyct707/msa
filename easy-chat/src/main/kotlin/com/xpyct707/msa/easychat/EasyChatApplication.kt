@@ -1,11 +1,11 @@
-package com.xpyct707.msa.easywallet
+package com.xpyct707.msa.easychat
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication(scanBasePackages = ["com.xpyct707.msa"])
-class MsaApplication
+class EasyChatApplication
 
 fun main(args: Array<String>) {
-	runApplication<MsaApplication>(*args)
+	runApplication<EasyChatApplication>(*args)
 }

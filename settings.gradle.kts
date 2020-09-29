@@ -1,2 +1,2 @@
 rootProject.name = "msa"
-include("platform-common", "easy-wallet")
+include("platform-common", "easy-wallet", "easy-chat")
